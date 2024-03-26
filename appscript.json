@@ -1,0 +1,10 @@
+{
+  "timeZone": "America/Edmonton",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio" : {
+    "description": "Connector to the Alma API (Courses) for use by Mount Royal University Library reporting."
+  }
+}
